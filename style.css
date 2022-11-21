@@ -1,0 +1,41 @@
+#select{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#year{
+    margin-left: 40px;
+}
+
+#month{
+    width: 120px;
+    height: 25px;
+}
+
+#year{
+    width: 120px;
+    height: 25px;
+}
+
+#calender{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+
+#input{
+    height: 25px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#btn{
+    color: white;
+    background-color: blue;
+    margin-left: 20px;
+    border-color:white ;
+}
